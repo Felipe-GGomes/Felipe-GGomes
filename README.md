@@ -47,8 +47,8 @@ Quero evoluir para contribuir com projetos desafiadores e inovadores!
 
 ### 📫 Como me encontrar?
 
-- [Minha página pessoal](https://felipe-ggomes.github.io/Repositorio_site/)
-- [LinkedIn](https://www.linkedin.com/in/felipe-gabriel-gomes-9194b7283/?trk=opento_sprofile_topcard)
+- Página Pessial: [Site](https://felipe-ggomes.github.io/Repositorio_site/)
+- LinkedIn: [Felipe Gabriel Gomes](https://www.linkedin.com/in/felipe-gabriel-gomes-9194b7283/?trk=opento_sprofile_topcard)
 - Email: [felipeggomes80@gmail.com](mailto:felipeggomes80@gmail.com)
 
 ---
