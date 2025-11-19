@@ -6,15 +6,16 @@
 
 # 👋 Olá, eu sou Felipe Gabriel Gomes!
 
-## 🎓 Estudante de Análise e Desenvolvimento de Sistemas | UTFPR
-Apaixonado por tecnologia, resolução de problemas e aprendizado constante!
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | UTFPR
+> Apaixonado por tecnologia, resolução de problemas e aprendizado constante!
 
 ---
 
-## 🖥️ Atualmente trabalho na SAG como suporte técnico!
-Aprendo rápido, gosto de trabalhar em equipe e me adapto fácil, tanto à tecnologia quanto à galera!
+### 🖥️ Atualmente trabalho na SAG como suporte técnico!
+> Aprendo rápido, gosto de trabalhar em equipe e me adapto fácil, tanto à tecnologia quanto à galera!
 
 ---
+<div align="Center">
 
 ### 🛠️ Habilidades e Tecnologias
 
@@ -28,11 +29,7 @@ Aprendo rápido, gosto de trabalhar em equipe e me adapto fácil, tanto à tecno
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-- **Python** 💙 (preferido — curto automação e análise de dados)
-- **C** (intermediário em lógica e algoritmos)
-- **Java** (básico em POO)
-- **SQL Server & Oracle** (administração e manipulação de dados)
+</div>
 
 ---
 
@@ -46,14 +43,13 @@ Aprendo rápido, gosto de trabalhar em equipe e me adapto fácil, tanto à tecno
 
 ### 🚀 Objetivos
 
-Aprimorar meus conhecimentos em backend, banco de dados e boas práticas de programação.  
-Quero evoluir para contribuir com projetos desafiadores e inovadores!
+> Aprimorar meus conhecimentos em backend, banco de dados e boas práticas de programação.  Quero evoluir para contribuir com projetos desafiadores e inovadores!
 
 ---
+<div align="Center">
 
 ### 📫 Como me encontrar?
 
-<div align="Center">
   <a href="https://www.linkedin.com/in/felipe-gabriel-gomes/">
     <img src="https://img.shields.io/badge/LinkedIn-070052?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
