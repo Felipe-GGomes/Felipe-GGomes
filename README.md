@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5F50E6&center=true&vCenter=true&width=650&lines=Felipe+Gabriel+Gomes;Python+%F0%9F%90%8D;Estudante+de+ADS+-+UTFPR;Inicia%C3%A7%C3%A3o+Cient%C3%ADfica+em+PLN+(NLP);Engenharia+de+Software+-+UniGuairac%C3%A1" alt="Typing SVG" />
+  </a>
+</div>
+
 # 👋 Olá, eu sou Felipe Gabriel Gomes!
 
 ## 🎓 Estudante de Análise e Desenvolvimento de Sistemas | UTFPR
@@ -47,15 +53,28 @@ Quero evoluir para contribuir com projetos desafiadores e inovadores!
 
 ### 📫 Como me encontrar?
 
-- Página Pessoal: [Site](https://felipe-ggomes.github.io/Repositorio_site/)
-- LinkedIn: [Felipe Gabriel Gomes](https://www.linkedin.com/in/felipe-gabriel-gomes-9194b7283/?trk=opento_sprofile_topcard)
-- Email: [felipeggomes80@gmail.com](mailto:felipeggomes80@gmail.com)
+<div align="Center">
+  <a href="https://www.linkedin.com/in/felipe-gabriel-gomes/">
+    <img src="https://img.shields.io/badge/LinkedIn-070052?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="felipeggomes80@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-070052?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/5542991620490">
+    <img src="https://img.shields.io/badge/WhatsApp-070052?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://felipe-ggomes.github.io/Repositorio_site">
+    <img src="https://img.shields.io/badge/Meu Site-070052?style=for-the-badge&logo=GitHub&logoColor=white" alt="Meu Site"/>
+  </a>
+</div>
 
 ---
 
 > _"A jornada do conhecimento nunca deve parar."_
 
----
+<div align="center">
 
-Se quiser ainda mais informal, pode pedir!
-Mas sim: **está certíssimo e pronto pra impressionar!** 🚀
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Felipe-GGomes&show_icons=true&theme=shades-of-purple&include_all_commits=true&hide_border=true&bg_color=0d1117" />
+  
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-GGomes&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=0d1117&hide=css" />
+</div>
