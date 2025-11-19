@@ -53,7 +53,7 @@
   <a href="https://www.linkedin.com/in/felipe-gabriel-gomes/">
     <img src="https://img.shields.io/badge/LinkedIn-070052?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="felipeggomes80@gmail.com">
+  <a href="mailtofelipeggomes80@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-070052?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://wa.me/5542991620490">
