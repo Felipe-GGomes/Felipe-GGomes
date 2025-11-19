@@ -2,9 +2,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5F50E6&center=true&vCenter=true&width=650&lines=Felipe+Gabriel+Gomes;Python+%F0%9F%90%8D;Estudante+de+ADS+-+UTFPR;Inicia%C3%A7%C3%A3o+Cient%C3%ADfica+em+PLN+(NLP);Engenharia+de+Software+-+UniGuairac%C3%A1" alt="Typing SVG" />
   </a>
-</div>
+
 
 # 👋 Olá, eu sou Felipe Gabriel Gomes!
+</div>
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | UTFPR
 > Apaixonado por tecnologia, resolução de problemas e aprendizado constante!
@@ -35,8 +36,9 @@
 
 ### 🌱 Atualmente aprendendo
 
-- Git & GitHub
-- HTML, CSS, JavaScript
+- Back-end
+- Front-end
+- Boas Práticas
 - Sempre buscando aprimorar mais!
 
 ---
